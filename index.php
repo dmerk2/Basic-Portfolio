@@ -1,1 +1,1 @@
-<?php include_once("Basic-Portfolio"); ?>
+<?php include_once("git@github.com:dmerk2/Basic-Portfolio.git"); ?>
