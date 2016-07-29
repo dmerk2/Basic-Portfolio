@@ -44,7 +44,14 @@ p{
 	font-color:blue;
 }
 
-/*
+a.apps{
+	font-size:25px;
+	font-family: 'Poiret One', cursive;
+	color: black;
+	margin-left: 10px;
+	padding:10px;
+}
+
 @media only screen and (max-width: 980px) {
     body {
         max-width: 100%;
@@ -62,4 +69,3 @@ p{
         max-width: 100%;
     }
 }
-*/
